@@ -1,4 +1,4 @@
-# Interactive Tableau Dashboard on Equity and Transformer-Based NLP in Healthcare used for Major Research Project
+# Interactive Tableau Dashboard on Equity and Transformer-Based NLP in Healthcare (used in Major Research Project)
 This Tableau visualization summarizes findings from a scoping review examining **equity-related concerns in transformer-based Natural Language Processing (NLP) models used in healthcare**.  
 It highlights patterns in **Bias, Data Representation and Participatory Design**, synthesizing evidence from 56 studies.
 
